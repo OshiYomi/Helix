@@ -10,26 +10,26 @@
 
 * Поиск товаров по имени.
   
-  ![logo](https://raw.githubusercontent.com/OshiYomi/Helix/main/ProductsView_Search.jpg?token=GHSAT0AAAAAAB7WHFH66SCWYUNVMOWHKYJMZAHE72A)
+  ![logo](/ProductsView_Search.jpg)
 
 * Сортировка товаров по производителю.
   
-  ![logo](https://raw.githubusercontent.com/OshiYomi/Helix/main/ProductsView_Filter.jpg?token=GHSAT0AAAAAAB7WHFH6DBGNIBV5SJP3L4DGZAHFAPA)
+  ![logo](/ProductsView_Filter.jpg)
 
 * Добавление новых товаров в Базу данных.
   
-  ![logo](https://raw.githubusercontent.com/OshiYomi/Helix/main/ProductsAdd.jpg?token=GHSAT0AAAAAAB7WHFH6TLT2QDW4UDFCZVISZAHFBEA)
+  ![logo](/ProductsAdd.jpg)
 
 * Возможность видеть изображение (если оно имеется), имя, описание, производителя продукта и его наличие на складе в удобном месте.
   
-  ![logo](https://raw.githubusercontent.com/OshiYomi/Helix/main/ProductsView.jpg?token=GHSAT0AAAAAAB7WHFH647KVGR775EXQPKGOZAHFB4A)
+  ![logo](/ProductsView.jpg)
 
 ## Дополнительные возможности
 * Можно перейти на предыдущее окно, нажав на соответствующую кнопку.
     * В окне продуктов:
-  ![logo](https://raw.githubusercontent.com/OshiYomi/Helix/main/ProductsView_ButtonBack.jpg?token=GHSAT0AAAAAAB7WHFH7KQQDQKMCQRSYEIWQZAHF4MA)
+  ![logo](/ProductsView_ButtonBack.jpg)
     * В окне добавления товаров:
-  ![logo](https://raw.githubusercontent.com/OshiYomi/Helix/main/ProductsAdd_ButtonBack.jpg?token=GHSAT0AAAAAAB7WHFH7ZFZVAGMEGYFBK7L6ZAHF6NQ)
+  ![logo](/ProductsAdd_ButtonBack.jpg)
   
 ## Необходимые условия для начала работы
 1. Программное обеспечение работает исключительно на операционной системе Windows.
