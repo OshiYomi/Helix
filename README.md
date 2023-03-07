@@ -6,7 +6,7 @@
 
 * Авторизация с капчей.
   
-  ![logo](https://raw.githubusercontent.com/OshiYomi/Helix/main/Authorization.jpg?token=GHSAT0AAAAAAB7WHFH72TR3XJBTGUIHBZE4ZAHEVJA)
+  ![logo](/Authorization.jpg)
 
 * Поиск товаров по имени.
   
